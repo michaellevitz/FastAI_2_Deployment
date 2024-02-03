@@ -1,5 +1,5 @@
 ---
-title: Lesson2 2
+title: Lesson2 2 fixed
 emoji: 🦀
 colorFrom: purple
 colorTo: pink

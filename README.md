@@ -1,5 +1,5 @@
 ---
-title: Lesson2 2 fixed
+title: FastAILesson2
 emoji: 🦀
 colorFrom: purple
 colorTo: pink
